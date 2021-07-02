@@ -8,7 +8,7 @@
 This project implements a file transfer protocol (FTP) client that. This client is able to connect to a server to manipulate local and remote file systems.
 
 # Technologies
-This was written in Java using the Apache FTP library.
+This was written in Java using the Apache FTP library. Testing was implemented using JUnit.
 
 # Installation
 
